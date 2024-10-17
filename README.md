@@ -34,8 +34,6 @@ We evaluate the ADR-CNN on several spatio-temporal datasets:
 - **Moving MNIST**: Synthetic video prediction dataset.
 - **KITTI**: Benchmark dataset for video prediction in autonomous driving.
 
-```
-
 ## Citation
 
 If you use this work in your research, please cite:
