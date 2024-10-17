@@ -1,8 +1,9 @@
 
 # Advection Augmented Convolutional Neural Networks (ADR-CNN)
 
-**Authors: Niloufar Zakariaei, Siddharth Rout, Eldad Haber, Moshe Eliasof**
-**Conference: 38th Conference on Neural Information Processing Systems (NeurIPS 2024)**
+**Authors**: Niloufar Zakariaei, Siddharth Rout, Eldad Haber, Moshe Eliasof
+
+**Conference**: 38th Conference on Neural Information Processing Systems (NeurIPS 2024)
 
 ## Abstract
 
