@@ -1,10 +1,11 @@
 
-# Advection Augmented Convolutional Neural Networks (ADR-CNN)
+# Advection Augmented Convolutional Neural Networks (ADR-Net)
 
 **Authors**: Niloufar Zakariaei, Siddharth Rout, Eldad Haber, Moshe Eliasof
 
 **Conference**: 38th Conference on Neural Information Processing Systems (NeurIPS 2024)
 
+**Preprint**: [ArXiv](https://arxiv.org/pdf/2406.19253)
 ## Abstract
 
 Many problems in the physical sciences involve the prediction of space-time sequences, such as weather forecasting, disease propagation, and video prediction. Traditional approaches using Convolutional Neural Networks (CNNs) combined with time-prediction mechanisms often struggle with long-range information propagation and lack explainability. To address these issues, we propose a novel architecture that augments CNNs with advection using a semi-Lagrangian push operator. This operator enables the non-local transformation of information, which is particularly beneficial in problems requiring rapid information transport across an image. We combine this operator with reaction and diffusion components to form a network that mirrors the Reaction-Advection-Diffusion (ADR) equation. We demonstrate the superior performance of this approach on various spatio-temporal datasets.
