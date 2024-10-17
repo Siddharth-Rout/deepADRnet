@@ -1,7 +1,7 @@
 
 # Advection Augmented Convolutional Neural Networks (ADR-Net)
 
-**Authors**: Niloufar Zakariaei, Siddharth Rout, Eldad Haber, Moshe Eliasof
+**Authors**: [Niloufar Zakariaei](https://scholar.google.ca/citations?user=9oDr0OIAAAAJ), [Siddharth Rout](https://scholar.google.com/citations?user=2r63M5kAAAAJ), [Eldad Haber](https://scholar.google.com/citations?user=NZmEIS8AAAAJ), [Moshe Eliasof](https://scholar.google.com/citations?user=44LKqBsAAAAJ)
 
 **Conference**: 38th Annual Conference on Neural Information Processing Systems (NeurIPS 2024)
 
