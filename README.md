@@ -27,7 +27,7 @@ Many problems in the physical sciences involve the prediction of space-time sequ
 
 ## Datasets
 
-We evaluate the ADR-CNN on several spatio-temporal datasets:
+We evaluate the ADR-Net on several spatio-temporal datasets:
 
 - **Shallow Water Equation (SWE)**: Derived from Navier-Stokes equations.
 - **CloudCast**: Satellite imagery for weather prediction.
@@ -39,7 +39,7 @@ We evaluate the ADR-CNN on several spatio-temporal datasets:
 If you use this work in your research, please cite:
 
 ```
-@inproceedings{ADR-CNN2024,
+@InProceedings{ADR-CNN2024,
   title={Advection Augmented Convolutional Neural Networks},
   author={Niloufar Zakariaei, Siddharth Rout, Eldad Haber, Moshe Eliasof},
   booktitle={Neural Information Processing Systems (NeurIPS)},
