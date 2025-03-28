@@ -80,7 +80,7 @@ class color_preserving_advection(nn.Module):
 # Advection Augmented Convolutional Neural Network
 class ADRnet(nn.Module):
     def __init__(self, in_c, hid_c, out_c, nlayers=16, imsz=[256, 256], device='cuda'):
-        super(resnet, self).__init__()
+        super(ADRnet, self).__init__()
         
         self.nlayers = nlayers
         self.Open = CLP(in_c, hid_c, imsz)
